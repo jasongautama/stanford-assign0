@@ -1,1 +1,2 @@
-// TODO: Replace this with your solution.
+const example = 123456789
+console.log(example)
